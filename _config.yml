@@ -1,0 +1,26 @@
+title:              The Cat Blog
+header-img:         img/home-bg.jpg
+email:              jajamison@lcmail.lcsc.edu
+description:        A Blog About Cats!
+author:             Start Bootstrap
+url:                "https://startbootstrap.github.io"
+
+# Social Profiles
+twitter_username:   SBootstrap
+github_username:    
+facebook_username:  
+instagram_username:  
+linkedin_username:
+email_username: jajamison@lcmail.lcsc.edu
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
